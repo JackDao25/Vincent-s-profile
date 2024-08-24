@@ -1,8 +1,8 @@
 # Driver Lifetime Value
-Overview
+## Overview
 This project is a take-home data science assignment aimed at calculating the Lifetime Value (LTV) of drivers for Lyft. By exploring and analyzing the provided datasets, we aim to uncover insights into the projected lifetime value of drivers and make actionable recommendations for Lyft's business.
 
-Objective
+## Objective
 The primary objective is to estimate a driver's Lifetime Value to Lyft and provide actionable insights based on data analysis. The questions we aim to answer include:
 
 What are the main factors that affect a driver’s lifetime value?
