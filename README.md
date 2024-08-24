@@ -55,15 +55,15 @@ timestamp: Time of the event in UTC.
 
 ### Assumptions
 
-All rides occurred in San Francisco.
-All timestamps are in UTC.
-The fare structure is based on the following:
-Base Fare: $2.00
-Cost per Mile: $1.15
-Cost per Minute: $0.22
-Service Fee: $1.75
-Minimum Fare: $5.00
-Maximum Fare: $400.00
+- All rides occurred in San Francisco.
+- All timestamps are in UTC.
+### The fare structure is based on the following:
+- Base Fare: $2.00
+- Cost per Mile: $1.15
+- Cost per Minute: $0.22
+- Service Fee: $1.75
+- Minimum Fare: $5.00
+- Maximum Fare: $400.00
 ## Expected Outcomes
 ### -Driver LTV Estimation: A detailed report on how lifetime value varies across drivers, including projections of their average driving lifetimes.
 ### -Actionable Insights: Insights into the main drivers of lifetime value and recommendations for Lyft to enhance driver retention and profitability.
